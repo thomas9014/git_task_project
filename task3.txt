@@ -1,0 +1,11 @@
+Task 3 - Git Pull Request Workflow
+
+1. Created a new branch: issue-1-constants-comments
+2. Made changes (constants + comments).
+3. Committed: 'Issue #1: constants + comments'
+4. Pushed branch to GitHub.
+5. Opened Pull Request with title/description (Closes #1).
+6. Reviewed diff in Files changed tab.
+7. Merged PR into main.
+8. Deleted branch after merge.
+9. Synced local repo with main.
